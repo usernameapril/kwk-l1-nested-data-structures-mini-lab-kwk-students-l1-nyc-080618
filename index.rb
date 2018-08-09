@@ -7,7 +7,20 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  # your code here!
+  if ingredients.include? (ingredient)
+    return true
+ puts ingredients [3][0]
+ puts ingredients [3][1]
+ puts ingredients [3][2]
+ puts ingredients [2][2]
+ puts ingredients [0][1]
+def ingredients = [
+    ["rye", "sourdough", "baguette"],
+    ["ham", "salami", "turkey"],
+    ["swiss", "munster", "cheddar"],
+    ["mayo", "mustard", "tabasco"]
+]
+
 end
 
 # example city_info hash
